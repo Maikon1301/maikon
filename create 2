@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Portfólio - Maikon</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>Maikon</h1>
+    <p>Desenvolvedor Web | Apaixonado por tecnologia</p>
+  </header>
+
+  <section id="projetos">
+    <h2>Meus Projetos</h2>
+
+    <!-- Exemplo de projeto -->
+    <div class="projeto">
+      <h3>Nome do Projeto</h3>
+      <p>Descrição do projeto aqui...</p>
+      <a href="https://github.com/maikon/repositorio-do-projeto" target="_blank">Ver no GitHub</a>
+    </div>
+    <!-- Adicione mais projetos aqui -->
+  </section>
+
+  <footer>
+    <p>Contato: seuemail@gmail.com | <a href="https://www.linkedin.com/in/seulinkedin">LinkedIn</a></p>
+  </footer>
+</body>
+</html>
